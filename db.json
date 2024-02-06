@@ -1,0 +1,107 @@
+{
+  "users": [
+    {
+      "mobile": "1234567890",
+      "pin": "1234",
+      "plan": "450",
+      "validTill": "12/12/2020",
+      "bill": "1000",
+      "dueDate": "12/12/2020",
+      "dataRemaining": "1GB",
+      "id": "1234567890"
+    },
+    {
+      "mobile": "1234567891",
+      "pin": "1234",
+      "plan": "399",
+      "validTill": "12/12/2020",
+      "bill": "1000",
+      "dueDate": "12/12/2020",
+      "dataRemaining": "1GB",
+      "id": "1234567891"
+    },
+    {
+      "mobile": "1234567892",
+      "pin": "1234",
+      "plan": "39",
+      "validTill": "12/12/2020",
+      "bill": "1000",
+      "dueDate": "12/12/2020",
+      "dataRemaining": "1GB",
+      "id": "1234567892"
+    },
+    {
+      "mobile": "1234567893",
+      "pin": "1234",
+      "plan": "399",
+      "validTill": "12/12/2020",
+      "bill": "1000",
+      "dueDate": "12/12/2020",
+      "dataRemaining": "1GB",
+      "id": "1234567893"
+    },
+    {
+      "mobile": "1234567894",
+      "pin": "1234",
+      "plan": "500",
+      "validTill": "12/12/2020",
+      "bill": "1000",
+      "dueDate": "12/12/2020",
+      "dataRemaining": "1.5GB",
+      "id": "1234567894"
+    },
+    {
+      "mobile": "1234567895",
+      "pin": "1234",
+      "plan": "399",
+      "validTill": "12/12/2020",
+      "bill": "1000",
+      "dueDate": "12/12/2020",
+      "dataRemaining": "1GB",
+      "id": "1234567895"
+    }
+  ],
+  "issues": [
+    {
+      "category": "Value Added Services",
+      "explanation": "I have been charged for a service that I have not subscribed to",
+      "id": "d4f2"
+    },
+    {
+      "category": "Topup",
+      "explanation": "I have recharged my account but the balance is not reflecting",
+      "id": "a69e"
+    },
+    {
+      "category": "Value Added Services",
+      "explanation": "I have been charged for a service that I have not subscribed to",
+      "id": "7e1c"
+    }
+  ],
+  "plans": [
+    {
+      "id": "1",
+      "name": "399",
+      "data": "1 GB",
+      "validity": "84 days",
+      "price": "399",
+      "talktime": "Unlimited"
+    },
+    {
+      "id": "2",
+      "name": "450",
+      "data": "1 GB",
+      "validity": "100 days",
+      "price": "450",
+      "talktime": "Unlimited"
+    },
+    {
+      "id": "3",
+      "name": "500",
+      "data": "1.5 GB",
+      "validity": "84 days",
+      "price": "500",
+      "talktime": "Unlimited"
+    }
+  ]
+}

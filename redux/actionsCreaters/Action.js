@@ -1,0 +1,6 @@
+export const GET_LOGIN_CRED = 'GET_LOGIN_CRED';
+export const GET_LOGIN_CRED_SUCCESS = 'GET_LOGIN_CRED_SUCCESS';
+export const GET_LOGIN_CRED_FAILURE = 'GET_LOGIN_CRED_FAILURE';
+
+export const SET_LOAD = 'SET_LOAD';
+export const SET_FREE = 'SET_FREE';
